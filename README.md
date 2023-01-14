@@ -1,6 +1,6 @@
 # Angus's SQL Style Guide
 
-## Use UPPERCASE for datbase objects name (table, column scheme, lowercase) and lowercase for reserved 
+## Use UPPERCASE for datbase objects name
 
 Use UPPERCASE for datbase objects name (table, column scheme etc.) and lowercase for reserved words, table alias, variables etc.
 
